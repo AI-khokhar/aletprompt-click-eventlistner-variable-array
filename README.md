@@ -1,0 +1,1 @@
+# aletprompt-click-eventlistner-variable-array
